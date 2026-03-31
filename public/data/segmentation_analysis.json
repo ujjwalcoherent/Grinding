@@ -1,242 +1,314 @@
 {
   "South Africa": {
-    "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+    "By Product Type": {
+      "Forged Steel Balls": {},
+      "Cast Steel / High Chrome Balls": {},
+      "Grinding Rods": {},
+      "Cylpebs / Other Grinding Shapes": {}
     },
-    "By Grade": {
-      "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+    "By Material Type": {
+      "Carbon / Alloy Steel Media": {},
+      "High Chrome Cast Media": {},
+      "Ceramic Media": {},
+      "Mixed Media Solutions": {}
+    },
+    "By Grinding Stage": {
+      "Primary Grinding": {},
+      "Secondary Grinding": {},
+      "Regrinding": {},
+      "Fine / Ultra-Fine Grinding": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
-    },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+      "Ore Comminution": {},
+      "Feed Preparation for Flotation": {},
+      "Feed Preparation for Leaching": {},
+      "Concentrate Regrinding / Liberation Improvement": {}
     }
   },
   "Ghana": {
-    "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+    "By Product Type": {
+      "Forged Steel Balls": {},
+      "Cast Steel / High Chrome Balls": {},
+      "Grinding Rods": {},
+      "Cylpebs / Other Grinding Shapes": {}
     },
-    "By Grade": {
-      "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+    "By Material Type": {
+      "Carbon / Alloy Steel Media": {},
+      "High Chrome Cast Media": {},
+      "Ceramic Media": {},
+      "Mixed Media Solutions": {}
+    },
+    "By Grinding Stage": {
+      "Primary Grinding": {},
+      "Secondary Grinding": {},
+      "Regrinding": {},
+      "Fine / Ultra-Fine Grinding": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
-    },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+      "Ore Comminution": {},
+      "Feed Preparation for Flotation": {},
+      "Feed Preparation for Leaching": {},
+      "Concentrate Regrinding / Liberation Improvement": {}
     }
   },
   "Mali": {
-    "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+    "By Product Type": {
+      "Forged Steel Balls": {},
+      "Cast Steel / High Chrome Balls": {},
+      "Grinding Rods": {},
+      "Cylpebs / Other Grinding Shapes": {}
     },
-    "By Grade": {
-      "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+    "By Material Type": {
+      "Carbon / Alloy Steel Media": {},
+      "High Chrome Cast Media": {},
+      "Ceramic Media": {},
+      "Mixed Media Solutions": {}
+    },
+    "By Grinding Stage": {
+      "Primary Grinding": {},
+      "Secondary Grinding": {},
+      "Regrinding": {},
+      "Fine / Ultra-Fine Grinding": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
-    },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+      "Ore Comminution": {},
+      "Feed Preparation for Flotation": {},
+      "Feed Preparation for Leaching": {},
+      "Concentrate Regrinding / Liberation Improvement": {}
     }
   },
   "Burkina Faso": {
-    "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+    "By Product Type": {
+      "Forged Steel Balls": {},
+      "Cast Steel / High Chrome Balls": {},
+      "Grinding Rods": {},
+      "Cylpebs / Other Grinding Shapes": {}
     },
-    "By Grade": {
-      "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+    "By Material Type": {
+      "Carbon / Alloy Steel Media": {},
+      "High Chrome Cast Media": {},
+      "Ceramic Media": {},
+      "Mixed Media Solutions": {}
+    },
+    "By Grinding Stage": {
+      "Primary Grinding": {},
+      "Secondary Grinding": {},
+      "Regrinding": {},
+      "Fine / Ultra-Fine Grinding": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
-    },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+      "Ore Comminution": {},
+      "Feed Preparation for Flotation": {},
+      "Feed Preparation for Leaching": {},
+      "Concentrate Regrinding / Liberation Improvement": {}
     }
   },
   "Tanzania": {
-    "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+    "By Product Type": {
+      "Forged Steel Balls": {},
+      "Cast Steel / High Chrome Balls": {},
+      "Grinding Rods": {},
+      "Cylpebs / Other Grinding Shapes": {}
     },
-    "By Grade": {
-      "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+    "By Material Type": {
+      "Carbon / Alloy Steel Media": {},
+      "High Chrome Cast Media": {},
+      "Ceramic Media": {},
+      "Mixed Media Solutions": {}
+    },
+    "By Grinding Stage": {
+      "Primary Grinding": {},
+      "Secondary Grinding": {},
+      "Regrinding": {},
+      "Fine / Ultra-Fine Grinding": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
-    },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+      "Ore Comminution": {},
+      "Feed Preparation for Flotation": {},
+      "Feed Preparation for Leaching": {},
+      "Concentrate Regrinding / Liberation Improvement": {}
     }
   },
   "Côte d'Ivoire": {
-    "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+    "By Product Type": {
+      "Forged Steel Balls": {},
+      "Cast Steel / High Chrome Balls": {},
+      "Grinding Rods": {},
+      "Cylpebs / Other Grinding Shapes": {}
     },
-    "By Grade": {
-      "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+    "By Material Type": {
+      "Carbon / Alloy Steel Media": {},
+      "High Chrome Cast Media": {},
+      "Ceramic Media": {},
+      "Mixed Media Solutions": {}
+    },
+    "By Grinding Stage": {
+      "Primary Grinding": {},
+      "Secondary Grinding": {},
+      "Regrinding": {},
+      "Fine / Ultra-Fine Grinding": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
-    },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+      "Ore Comminution": {},
+      "Feed Preparation for Flotation": {},
+      "Feed Preparation for Leaching": {},
+      "Concentrate Regrinding / Liberation Improvement": {}
     }
   },
   "Zimbabwe": {
-    "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+    "By Product Type": {
+      "Forged Steel Balls": {},
+      "Cast Steel / High Chrome Balls": {},
+      "Grinding Rods": {},
+      "Cylpebs / Other Grinding Shapes": {}
     },
-    "By Grade": {
-      "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+    "By Material Type": {
+      "Carbon / Alloy Steel Media": {},
+      "High Chrome Cast Media": {},
+      "Ceramic Media": {},
+      "Mixed Media Solutions": {}
+    },
+    "By Grinding Stage": {
+      "Primary Grinding": {},
+      "Secondary Grinding": {},
+      "Regrinding": {},
+      "Fine / Ultra-Fine Grinding": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
-    },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+      "Ore Comminution": {},
+      "Feed Preparation for Flotation": {},
+      "Feed Preparation for Leaching": {},
+      "Concentrate Regrinding / Liberation Improvement": {}
     }
   },
   "Democratic Republic of the Congo": {
-    "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+    "By Product Type": {
+      "Forged Steel Balls": {},
+      "Cast Steel / High Chrome Balls": {},
+      "Grinding Rods": {},
+      "Cylpebs / Other Grinding Shapes": {}
     },
-    "By Grade": {
-      "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+    "By Material Type": {
+      "Carbon / Alloy Steel Media": {},
+      "High Chrome Cast Media": {},
+      "Ceramic Media": {},
+      "Mixed Media Solutions": {}
+    },
+    "By Grinding Stage": {
+      "Primary Grinding": {},
+      "Secondary Grinding": {},
+      "Regrinding": {},
+      "Fine / Ultra-Fine Grinding": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
-    },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+      "Ore Comminution": {},
+      "Feed Preparation for Flotation": {},
+      "Feed Preparation for Leaching": {},
+      "Concentrate Regrinding / Liberation Improvement": {}
     }
   },
   "Guinea": {
-    "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+    "By Product Type": {
+      "Forged Steel Balls": {},
+      "Cast Steel / High Chrome Balls": {},
+      "Grinding Rods": {},
+      "Cylpebs / Other Grinding Shapes": {}
     },
-    "By Grade": {
-      "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+    "By Material Type": {
+      "Carbon / Alloy Steel Media": {},
+      "High Chrome Cast Media": {},
+      "Ceramic Media": {},
+      "Mixed Media Solutions": {}
+    },
+    "By Grinding Stage": {
+      "Primary Grinding": {},
+      "Secondary Grinding": {},
+      "Regrinding": {},
+      "Fine / Ultra-Fine Grinding": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
-    },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+      "Ore Comminution": {},
+      "Feed Preparation for Flotation": {},
+      "Feed Preparation for Leaching": {},
+      "Concentrate Regrinding / Liberation Improvement": {}
     }
   },
   "Sudan": {
-    "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+    "By Product Type": {
+      "Forged Steel Balls": {},
+      "Cast Steel / High Chrome Balls": {},
+      "Grinding Rods": {},
+      "Cylpebs / Other Grinding Shapes": {}
     },
-    "By Grade": {
-      "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+    "By Material Type": {
+      "Carbon / Alloy Steel Media": {},
+      "High Chrome Cast Media": {},
+      "Ceramic Media": {},
+      "Mixed Media Solutions": {}
+    },
+    "By Grinding Stage": {
+      "Primary Grinding": {},
+      "Secondary Grinding": {},
+      "Regrinding": {},
+      "Fine / Ultra-Fine Grinding": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
-    },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+      "Ore Comminution": {},
+      "Feed Preparation for Flotation": {},
+      "Feed Preparation for Leaching": {},
+      "Concentrate Regrinding / Liberation Improvement": {}
     }
   },
   "Russia": {
-    "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+    "By Product Type": {
+      "Forged Steel Balls": {},
+      "Cast Steel / High Chrome Balls": {},
+      "Grinding Rods": {},
+      "Cylpebs / Other Grinding Shapes": {}
     },
-    "By Grade": {
-      "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+    "By Material Type": {
+      "Carbon / Alloy Steel Media": {},
+      "High Chrome Cast Media": {},
+      "Ceramic Media": {},
+      "Mixed Media Solutions": {}
+    },
+    "By Grinding Stage": {
+      "Primary Grinding": {},
+      "Secondary Grinding": {},
+      "Regrinding": {},
+      "Fine / Ultra-Fine Grinding": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
-    },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+      "Ore Comminution": {},
+      "Feed Preparation for Flotation": {},
+      "Feed Preparation for Leaching": {},
+      "Concentrate Regrinding / Liberation Improvement": {}
     }
   },
   "Australia": {
-    "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+    "By Product Type": {
+      "Forged Steel Balls": {},
+      "Cast Steel / High Chrome Balls": {},
+      "Grinding Rods": {},
+      "Cylpebs / Other Grinding Shapes": {}
     },
-    "By Grade": {
-      "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+    "By Material Type": {
+      "Carbon / Alloy Steel Media": {},
+      "High Chrome Cast Media": {},
+      "Ceramic Media": {},
+      "Mixed Media Solutions": {}
+    },
+    "By Grinding Stage": {
+      "Primary Grinding": {},
+      "Secondary Grinding": {},
+      "Regrinding": {},
+      "Fine / Ultra-Fine Grinding": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
-    },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+      "Ore Comminution": {},
+      "Feed Preparation for Flotation": {},
+      "Feed Preparation for Leaching": {},
+      "Concentrate Regrinding / Liberation Improvement": {}
     }
   }
 }
